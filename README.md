@@ -1,4 +1,4 @@
-ÁO CÁO BÀI TẬP / ĐỒ ÁN
+BÁO CÁO BÀI TẬP / ĐỒ ÁN
 THÔNG TIN SINH VIÊN
 Họ và tên: Nguyễn Đăng Khoa
 Mã số sinh viên: 24810320210

@@ -1,11 +1,19 @@
 BÁO CÁO BÀI TẬP / ĐỒ ÁN
-THÔNG TIN SINH VIÊN
+ 
+ THÔNG TIN SINH VIÊN
+
 Họ và tên: Nguyễn Đăng Khoa
+
 Mã số sinh viên: 24810320210
+
 Lớp: D19QTANM1
+
 Tên môn học: Lập trình C#
+
 Tên bài tập: BÀI TẬP 5.5:
+
 KẾT QUẢ THỰC HÀNH
+
 Giao diện chính
 <img width="1027" height="732" alt="Screenshot 2026-10-30 151110" src="https://github.com/user-attachments/assets/4a14aa6a-be83-449c-8681-1d863fdbe989" />
 
